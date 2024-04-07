@@ -2002,11 +2002,6 @@ div.team-single team-info{
     margin-bottom: 30px;
   }
 }
-@media only screen and (max-width: 482px) {
-  .phone-screenshot .mobile-screen {
-    max-width: 650px;
-  }
-}
 @media only screen and (max-width: 991px) {
   .phone-screenshot .arrow-point {
     max-width: 50px;
